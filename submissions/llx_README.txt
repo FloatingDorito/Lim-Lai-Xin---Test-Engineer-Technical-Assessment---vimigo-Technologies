@@ -1,6 +1,6 @@
 Hi welcome to my submissions README
 
-To access the video demo: 
+To access the video demo: https://drive.google.com/file/d/1oS1Y_apvQnAFZFfRULNa1ROrexmTYZnL/view?usp=sharing
 
 To access the documentation: https://docs.google.com/document/d/112YaRn5LpbqPVw_3Nm88TY33F7YoHX88fGFfiR4_h-U/edit?usp=sharing
 
