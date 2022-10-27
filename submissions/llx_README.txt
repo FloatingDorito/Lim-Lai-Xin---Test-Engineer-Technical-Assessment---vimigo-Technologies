@@ -6,4 +6,6 @@ To access the documentation: https://docs.google.com/document/d/112YaRn5LpbqPVw_
 
 To access the postman API collection: https://www.getpostman.com/collections/a7f0c8beeb58abc6fcdb
 
+To access GitHub Repository: https://github.com/FloatingDorito/Lim-Lai-Xin---Test-Engineer-Technical-Assessment---vimigo-Technologies
+
 Note: there is no testing in the bundle code, all testing and documentation is in google docs and postman API collection.
